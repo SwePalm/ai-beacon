@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Signal Sweep"
+  short_description: "Find dated candidate signals and sources"
+  default_prompt: "Use $beacon-signal-sweep to discover current candidate evidence for a Beacon condition."

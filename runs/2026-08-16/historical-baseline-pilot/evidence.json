@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ev-2026-08-001",
+    "source_id": "src-2026-08-002",
+    "status": "observed",
+    "supports": "The US Census Bureau provides a computer- and internet-use data series covering 1984 through 2009.",
+    "does_not_support": "It does not show that household computer use caused a particular workplace or labour-market change.",
+    "affected_people": ["US households", "workers exposed to computer diffusion"],
+    "theme_ids": ["work", "learning", "agency"],
+    "confidence": "high"
+  },
+  {
+    "id": "ev-2026-08-002",
+    "source_id": "src-2026-08-003",
+    "status": "researched",
+    "supports": "BLS reports an 80.4% decline in US employment of word processors and typists from 1999 to 2018 and states that offshoring complicates attribution of occupational change to automation or AI.",
+    "does_not_support": "It does not isolate office software as the sole cause, nor does it establish effects for all clerical work.",
+    "affected_people": ["word processors and typists", "office-support workers"],
+    "theme_ids": ["work", "learning", "power"],
+    "confidence": "high"
+  },
+  {
+    "id": "ev-2026-08-003",
+    "source_id": "src-2026-08-004",
+    "status": "researched",
+    "supports": "Using representative US task-requirement data from 1960–98, the study associates computerization with lower relative demand for routine cognitive and manual tasks and higher relative demand for non-routine cognitive tasks.",
+    "does_not_support": "It does not show that every computerised workplace upgraded work or that a worker can reliably protect their position through individual skill acquisition.",
+    "affected_people": ["workers in computerising US industries", "workers without college education"],
+    "theme_ids": ["work", "learning", "judgment"],
+    "confidence": "medium"
+  },
+  {
+    "id": "ev-2026-08-004",
+    "source_id": "src-2026-08-005",
+    "status": "researched",
+    "supports": "For US office and administrative support jobs in the study's 2007 and 2010–16 postings data, software adoption at job-title level was associated with higher applicant skill requirements and broader task content; local gains primarily accrued to college-educated women.",
+    "does_not_support": "It does not establish a causal outcome for all office workers, all countries, or today's AI tools.",
+    "affected_people": ["US office and administrative support applicants", "college-educated women in these occupations", "workers without college education"],
+    "theme_ids": ["work", "learning", "power"],
+    "confidence": "medium"
+  },
+  {
+    "id": "ev-2026-08-005",
+    "source_id": "src-2026-08-006",
+    "status": "researched",
+    "supports": "The paper presents ATMs as a case in which automation of cash-dispensing tasks coincided with banks operating more branches and tellers moving toward customer-service work, offsetting the simple per-branch substitution story.",
+    "does_not_support": "It does not show that ATMs had no distributional effects or that future automation will create offsetting demand.",
+    "affected_people": ["US bank tellers", "bank customers", "retail-bank branch workers"],
+    "theme_ids": ["work", "agency", "trust"],
+    "confidence": "medium"
+  },
+  {
+    "id": "ev-2026-08-006",
+    "source_id": "src-2026-08-007",
+    "status": "researched",
+    "supports": "For US commuting zones exposed to industrial robots from 1990–2007, the study estimates lower employment-to-population ratios and wages as robot exposure increased.",
+    "does_not_support": "It does not show that robots caused the same effect in every workplace, or that the estimate transfers to office software or AI.",
+    "affected_people": ["workers in robot-exposed US commuting zones", "manufacturing workers", "local labour markets"],
+    "theme_ids": ["work", "power", "public"],
+    "confidence": "medium"
+  },
+  {
+    "id": "ev-2026-08-007",
+    "source_id": "src-2026-08-001",
+    "status": "signal",
+    "supports": "A retrospective IMF article offers ATM and accounting-software examples as prompts to inspect task and organisational change.",
+    "does_not_support": "It does not establish prevalence, causal effects, or a general employment outcome.",
+    "affected_people": ["workers discussed in retrospective automation narratives"],
+    "theme_ids": ["work", "attention"],
+    "confidence": "low"
+  }
+]

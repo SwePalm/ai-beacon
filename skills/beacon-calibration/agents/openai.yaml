@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Calibration"
+  short_description: "Grade prior Beacon hypotheses"
+  default_prompt: "Use $beacon-calibration to grade prior Beacon hypotheses and surface method changes."

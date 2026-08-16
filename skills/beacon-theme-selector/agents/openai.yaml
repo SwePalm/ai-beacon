@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Theme Selector"
+  short_description: "Select a meaningful human-AI condition"
+  default_prompt: "Use $beacon-theme-selector to select a Beacon condition for the next run."

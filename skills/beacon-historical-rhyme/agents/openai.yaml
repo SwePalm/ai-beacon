@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Historical Rhyme"
+  short_description: "Compare present change with past shifts"
+  default_prompt: "Use $beacon-historical-rhyme to compare a current Beacon condition with history."

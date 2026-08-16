@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Orchestrator"
+  short_description: "Run a source-grounded Beacon cycle"
+  default_prompt: "Use $beacon-orchestrator to run a complete Beacon research cycle."

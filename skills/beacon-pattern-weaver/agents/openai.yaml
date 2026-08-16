@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Pattern Weaver"
+  short_description: "Form bounded cross-source interpretations"
+  default_prompt: "Use $beacon-pattern-weaver to synthesize a Beacon pattern from graded evidence."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Choice Brief"
+  short_description: "Compose a non-prescriptive master brief"
+  default_prompt: "Use $beacon-choice-brief to create a source-grounded Beacon Choice Brief."

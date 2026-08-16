@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beacon Evidence Grader"
+  short_description: "Classify claims and preserve provenance"
+  default_prompt: "Use $beacon-evidence-grader to grade and normalize Beacon source items."

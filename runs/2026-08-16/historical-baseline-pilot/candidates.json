@@ -1,0 +1,79 @@
+[
+  {
+    "id": "src-2026-08-001",
+    "title": "Toil and Technology",
+    "url": "https://www.imf.org/external/pubs/ft/fandd/2015/03/bessen.htm",
+    "published_at": "2015-03-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "reporting",
+    "discovery_lane": "fast",
+    "candidate_claim": "A retrospective account says ATMs shifted teller tasks rather than mechanically determining teller employment.",
+    "notes": "Discovery context only; grade against underlying research where possible."
+  },
+  {
+    "id": "src-2026-08-002",
+    "title": "Computer and Internet Use in the United States: 1984 to 2009",
+    "url": "https://www.census.gov/data/tables/time-series/demo/computer-internet/computer-use-1984-2009.html",
+    "published_at": "2012-01-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "primary",
+    "discovery_lane": "public",
+    "candidate_claim": "US Census tables document computer-use series spanning 1984–2009.",
+    "notes": "Documents diffusion context; it does not establish workplace causality."
+  },
+  {
+    "id": "src-2026-08-003",
+    "title": "Growth trends for selected occupations considered at risk from automation",
+    "url": "https://www.bls.gov/opub/mlr/2022/article/growth-trends-for-selected-occupations-considered-at-risk-from-automation.htm",
+    "published_at": "2022-07-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "research",
+    "discovery_lane": "public",
+    "candidate_claim": "BLS documents large historical employment declines in selected occupations while warning that causes can be confounded.",
+    "notes": "Use its attribution cautions, not a simple automation story."
+  },
+  {
+    "id": "src-2026-08-004",
+    "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+    "url": "https://www.nber.org/papers/w8337",
+    "published_at": "2001-06-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "research",
+    "discovery_lane": "slow",
+    "candidate_claim": "US research links computerization with changes in task demand between 1960 and 1998.",
+    "notes": "A task-demand study, not a forecast or a universal mechanism."
+  },
+  {
+    "id": "src-2026-08-005",
+    "title": "Computerization of White Collar Jobs",
+    "url": "https://www.nber.org/papers/w29866",
+    "published_at": "2022-03-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "research",
+    "discovery_lane": "slow",
+    "candidate_claim": "For US office and administrative support postings, software adoption coincided with higher stated skill requirements and task broadening.",
+    "notes": "Posting and local-labour-market evidence; bounded to the study period and setting."
+  },
+  {
+    "id": "src-2026-08-006",
+    "title": "How Computer Automation Affects Occupations: Technology, Jobs, and Skills",
+    "url": "https://www.bu.edu/law/files/2015/11/NewTech-2.pdf",
+    "published_at": "2016-10-03",
+    "accessed_at": "2026-08-16",
+    "source_type": "research",
+    "discovery_lane": "slow",
+    "candidate_claim": "A research paper uses ATMs to illustrate that task automation may coincide with organisational expansion and changed jobs.",
+    "notes": "Use as a counter-example, not proof that automation preserves jobs."
+  },
+  {
+    "id": "src-2026-08-007",
+    "title": "Robots and Jobs: Evidence from US Labor Markets",
+    "url": "https://www.nber.org/papers/w23285",
+    "published_at": "2017-03-01",
+    "accessed_at": "2026-08-16",
+    "source_type": "research",
+    "discovery_lane": "slow",
+    "candidate_claim": "Industrial-robot exposure between 1990 and 2007 was associated with lower employment and wages in US commuting zones.",
+    "notes": "Local-market estimates; not a claim about every firm, worker, or technology."
+  }
+]

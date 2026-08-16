@@ -1,0 +1,13 @@
+{"id":"ev-2026-08-001","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-002","status":"observed","confidence":"high","theme_ids":["work","learning","agency"]}
+{"id":"ev-2026-08-002","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-003","status":"researched","confidence":"high","theme_ids":["work","learning","power"]}
+{"id":"ev-2026-08-003","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-004","status":"researched","confidence":"medium","theme_ids":["work","learning","judgment"]}
+{"id":"ev-2026-08-004","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-005","status":"researched","confidence":"medium","theme_ids":["work","learning","power"]}
+{"id":"ev-2026-08-005","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-006","status":"researched","confidence":"medium","theme_ids":["work","agency","trust"]}
+{"id":"ev-2026-08-006","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-007","status":"researched","confidence":"medium","theme_ids":["work","power","public"]}
+{"id":"ev-2026-08-007","run":"2026-08-16/historical-baseline-pilot","source_id":"src-2026-08-001","status":"signal","confidence":"low","theme_ids":["work","attention"]}
+{"id":"ev-2026-08-008","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-008","status":"reported","confidence":"low","theme_ids":["trust","creation","work"]}
+{"id":"ev-2026-08-009","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-009","status":"observed","confidence":"high","theme_ids":["public","trust","judgment","power"]}
+{"id":"ev-2026-08-010","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-010","status":"observed","confidence":"high","theme_ids":["public","trust","creation","power"]}
+{"id":"ev-2026-08-011","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-011","status":"researched","confidence":"high","theme_ids":["trust","judgment","creation"]}
+{"id":"ev-2026-08-012","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-012","status":"researched","confidence":"medium","theme_ids":["trust","attention","public","care"]}
+{"id":"ev-2026-08-013","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-013","status":"observed","confidence":"high","theme_ids":["public","power","trust"]}
