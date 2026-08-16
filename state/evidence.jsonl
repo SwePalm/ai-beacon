@@ -11,3 +11,11 @@
 {"id":"ev-2026-08-011","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-011","status":"researched","confidence":"high","theme_ids":["trust","judgment","creation"]}
 {"id":"ev-2026-08-012","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-012","status":"researched","confidence":"medium","theme_ids":["trust","attention","public","care"]}
 {"id":"ev-2026-08-013","run":"2026-08-16/synthetic-content-marking","source_id":"src-2026-08-013","status":"observed","confidence":"high","theme_ids":["public","power","trust"]}
+{"id":"ev-2026-08-014","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-014","status":"researched","confidence":"medium","theme_ids":["work","agency","learning"]}
+{"id":"ev-2026-08-015","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-015","status":"researched","confidence":"medium","theme_ids":["work","agency","judgment"]}
+{"id":"ev-2026-08-016","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-016","status":"observed","confidence":"high","theme_ids":["agency","trust","care"]}
+{"id":"ev-2026-08-017","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-017","status":"observed","confidence":"medium","theme_ids":["attention","agency"]}
+{"id":"ev-2026-08-018","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-018","status":"reported","confidence":"medium","theme_ids":["work","judgment","power","trust"]}
+{"id":"ev-2026-08-019","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-019","status":"reported","confidence":"medium","theme_ids":["work","agency","power"]}
+{"id":"ev-2026-08-020","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-020","status":"reported","confidence":"low","theme_ids":["learning","work","agency"]}
+{"id":"ev-2026-08-021","run":"2026-08-16/persistent-agent-work","source_id":"src-2026-08-021","status":"observed","confidence":"high","theme_ids":["judgment","trust","power","care"]}
