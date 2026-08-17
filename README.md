@@ -14,7 +14,7 @@ Each cycle produces a **Beacon Choice Brief**, the source-grounded master artifa
 select -> sweep -> grade -> compare -> weave -> brief -> calibrate
 ```
 
-The portable Agent Skills in `skills/` implement those stages. State is append-only by default; method changes are human-approved and versioned.
+The portable Agent Skills in `skills/` implement those stages. State is append-only by default; method changes are human-approved and versioned. Beacon also tracks two forms of learning across cycles: a signal lifecycle, so early clues can be corroborated, weakened, contradicted, or allowed to expire; and a capability terrain, so changing conditions can reveal capacities at person, team, institution, and public levels without turning them into a fixed self-improvement syllabus.
 
 ## Start here
 
@@ -32,4 +32,3 @@ state/        append-only ledgers and calibration record
 runs/         dated, immutable cycle artifacts
 proposals/    human-reviewed changes to the instrument
 ```
-

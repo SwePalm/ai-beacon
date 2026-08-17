@@ -16,4 +16,8 @@ Create these files when the first run needs them:
 - `evidence.jsonl`
 - `patterns.jsonl`
 - `readiness-hypotheses.jsonl`
+- `signals.jsonl` (initial signals and later lifecycle reviews)
+- `capability-terrain.jsonl` (conditional, multi-level capacity records)
 - `CALIBRATION.md`
+
+`CALIBRATION.md` may append an active heuristic only after at least two dated run findings support a specific pipeline-bias statement. Each heuristic must name its supporting run or record IDs and an expiry date. Keep no more than 10 active heuristics; retire or renew them explicitly.

@@ -1,6 +1,6 @@
 # Proposal — signal lifecycle separate from evidence status
 
-**Status:** proposed; requires human review after use in a live run.  
+**Status:** implemented by approved instrument update 2026-08-17.
 **Origin:** reflection following the synthetic-content-marking pilot.
 
 ## Problem

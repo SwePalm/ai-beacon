@@ -12,6 +12,8 @@ ledgers=(
   state/evidence.jsonl
   state/patterns.jsonl
   state/readiness-hypotheses.jsonl
+  state/signals.jsonl
+  state/capability-terrain.jsonl
 )
 
 fail=0
