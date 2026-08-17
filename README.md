@@ -30,5 +30,16 @@ skills/       portable Agent Skills
 references/   shared method, schema, and theme references
 state/        append-only ledgers and calibration record
 runs/         dated, immutable cycle artifacts
+pulses/       short weekly capture records; not yet full runs
+learnings/    monthly reflections across pulses and runs
+operations/   the working rhythm and review gates
 proposals/    human-reviewed changes to the instrument
 ```
+
+## Initial operating rhythm
+
+Beacon is currently in a collection-and-learning phase, not a publishing phase.
+Use a short weekly pulse to retain source-linked observations, including an explicit
+`no material change` outcome when warranted. Use one monthly learning review to
+compare the pulses, inspect signal lifecycles and capability terrain, and decide
+whether a full pipeline run is justified. See [the operating loop](operations/OPERATING_LOOP.md).
